@@ -35,7 +35,6 @@ PLATFORM_SCHEMA = PLATFORM_SCHEMA.extend(
 )
 
 
-
 kInput = 0
 kInputStateOn = True
 kInputStateOff = False
